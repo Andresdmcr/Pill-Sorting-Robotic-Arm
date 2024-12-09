@@ -1,5 +1,3 @@
-This project automates pill identification and sorting using computer vision, machine learning, and a robotic arm.
-
 ArduinoArm.ino: Controls the robotic arm via serial commands from Python.
 Main.py: Core script for identifying pills, detecting containers, and deciding where the pill goes based on color and position.
 - Supporting Files
